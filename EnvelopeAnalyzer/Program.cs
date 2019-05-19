@@ -10,6 +10,8 @@ namespace EnvelopeAnalyzer
     {
         static void Main(string[] args)
         {
+            UI.DoUI();
+
         }
     }
 }
